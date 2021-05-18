@@ -1,0 +1,3 @@
+     Syntax:   RDEFTOPIC <channel>
+     Use:      This will reset the topic back to the channel default
+               topic which is set by the CHANOPT command.

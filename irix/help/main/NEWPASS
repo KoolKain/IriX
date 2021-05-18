@@ -1,0 +1,10 @@
+     Syntax:   NEWPASS <channel> <IDnick> <new password> 
+     Use:      Change user password
+     Example:  /msg \n NEWPASS #MyChannel MyIDnick kriskringle
+     ----------
+     Note:
+     ----------
+     Please remember the password you set. The Cservice
+     staff is not authorized to give you your password.
+     Contact a 400+ user on your channel to change your
+     password for you.

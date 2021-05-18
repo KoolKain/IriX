@@ -1,0 +1,11 @@
+#!/bin/sh
+
+cd ~/CS5.0
+if ps -p `cat O.pid` >/dev/null 2>&1
+then 
+    echo `date` OK >> ~/CS5.0/logs/checkX.log
+else
+    echo `date` - ReStarting X >> ~/CS5.0/logs/checkX.log
+    sleep 15
+    ./O
+fi

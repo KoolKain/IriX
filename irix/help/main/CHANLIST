@@ -1,0 +1,6 @@
+      Syntax:   CHANLIST [ <value or >value or =value ]
+      Use:      Used to list all registered channels, using the
+                parameter provided.  value is the number of users
+                used to display the channel list
+                Do not put a space between the symbol and the number.
+      Example:  /msg \n CHANLIST >10

@@ -1,0 +1,36 @@
+PRG=./O
+INC_DIR=./include
+CFLAGS=-I${INC_DIR}
+LIBS=-lresolv -lsocket -lnsl
+CFG=../config
+
+
+OBJS=\
+	bot.o add_userinfo.o chk_access.o misc_cmds.o parse_kill.o parse_eoburst.o write_files.o\
+        del_user.o show_access.o add_user.o help.o  mod_user.o  ret_usrinfo.o \
+	chaninfo.o  ban.o  ctcp.o join_chan.o opreg_chan.o server.o parse_server.o ip_tools.o \
+	parse.o set_chinfo.o topic.o remove_hub.o parse_nick.o parse_kick.o clearban.o \
+	flood.o load_cfg.o mailreg.o set_pass.o parse_privmsg.o parse_mode.o  misc_tools.o \
+	parse_quit.o parse_rtnmsg.o parse_join.o fluff.o parse_srvmsg.o bancmp.o check_ban.o \
+	wild_cmp.o motd.o join_msgchan.o refresh_reg.o chan_purge.o unreg_chan.o load_chan_files.o \
+	chan_check.o free_lists.o chan_tools.o authorize.o dauthorize.o char_tools.o info.o \
+	join_part.o op_deop.o load_nums.o num_tools.o is_serv.o parse_burst.o parse_create.o \
+	parse_part.o  rehash.o swap_host.o mod_admin.o add_admin.o add_chaninfo.o\
+        get_dns.o del_admin.o ret_regsinfo.o mkpasswd.o chanopt.o whois.o \
+	user_node_tools.o chan_node_tools.o alist.o isauthed.o \
+        csauth.o csdeauth.o showcommands.o operlist.o chan_list.o rename_channel.o verify.o \
+	unban.o nickban.o kickban.o ch_command.o reg_chan.o addthishost.o
+
+INC=${INC_DIR}/bot.h ${INC_DIR}/proto.h $(INC_DIR}/global.h ${INC_DIR}/structs.h
+
+${PRG}: ${OBJS} 
+	cc -o $@ ${OBJS} ${LIBS}
+	mv -f ./O ..
+
+${OBJS}: ${INC_DIR}/bot.h
+${OBJS}: ${INC_DIR}/proto.h
+${OBJS}: ${INC_DIR}/globals.h
+${OBJS}: ${INC_DIR}/structs.h
+
+clean:
+	rm -f ${OBJS}

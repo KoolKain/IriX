@@ -1,0 +1,4 @@
+     Syntax:   RCTOPICS
+     Use:      This will re-issue all current topic.  This is used to
+               resync all channels after a server split.
+

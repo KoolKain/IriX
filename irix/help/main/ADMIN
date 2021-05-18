@@ -1,0 +1,3 @@
+     Syntax:   ADMIN
+     Use:      Lists all cservice admins, if they are logged on
+               and what nick they are using.

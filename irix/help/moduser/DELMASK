@@ -1,0 +1,5 @@
+     Syntax:   MODUSER <#Channel> DELMASK <IDNick> <nick!user@host>
+     Use:      Removes the association between an IDnick and a 
+               particular hostmask.
+     Example:  /msg \n MODUSER #Channel DELMASK IDNick
+               somenick!*userstuf@*.myhost.com

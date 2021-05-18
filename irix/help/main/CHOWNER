@@ -1,0 +1,10 @@
+     Syntax:   CHOWNER <channel> <new owner mask>
+     Use:      Used to either change the current owner registration
+               mask to new mask, or to allow for the current owner 
+               to give ownership to another user
+     Example:  /msg \n CHOWNER #southpole *!*opus@*.othernet.org
+     NOTE:     In order to give ownership to another user, you will
+               need to DELUSER the current owner form the channel 
+               user list \b/msg \n DELUSER #channel <idnick of current owner>\b
+               then add the new owner to the channel user list
+               \b/msg \n ADDUSER #channel IDNick *!*user@host 500 OFF OFF password

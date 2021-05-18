@@ -1,0 +1,14 @@
+     Syntax:   MODADMIN <option> <IDnick> <parameter list>
+     Use:      Changes user information for an Admin.
+               For help on individual options listed below, see
+               /msg \n HELP MODADMIN <option>
+     Example:  /msg \n MODADMIN ADDMASK Billy *!*bgates@*.microsoft.com
+     Option    Setting
+     ------    -------
+     ADDMASK   <nick!user@host>
+     DELMASK   <nick!user@host>
+     AUTOOP    <toggle>
+     PROTECT   <toggle>
+     LEVEL     <501-999>
+     NEWIDNICK <old IDnick> <new IDnick>
+     NEWPASS   <IDNick> <new password>

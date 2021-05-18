@@ -1,0 +1,7 @@
+     Syntax:   MODUSER #Channel AUTOOP <IDNick>
+     Use:      Toggles the autoop mode on or off for a user
+     Example:  /msg \n MODUSER #MyChan AUTOOP <IDNick>
+     ----------
+     Suggested Use:
+     ----------
+     If authed, to op you automatically when entering a channel

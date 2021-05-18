@@ -1,0 +1,3 @@
+     Syntax:   CHANOPT <channel> WELCOME <message>
+     Use:      Set a welcome message for people joining the channel.
+     Example:  /msg \n CHANOPT #MyChan WELCOME Hello and welcome to chatland.

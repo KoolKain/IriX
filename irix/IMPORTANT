@@ -1,0 +1,24 @@
+If this is a new install, ignore this file
+If you you are upgrading from CS5.0 to CS5.1 you will need
+to take a few steps to accomplish the upgrade.  
+
+There is a new command added, `addthishost', and if you do not 
+follow these instruction the bot will not load all the commands
+and will not function properly.
+
+When you untar CS5.1 it will put it into a new directory called 
+CS5.1.  After it has completed you then follow the instructions
+to make the new services.  After that has completed copy the entire
+CS5.0/database directory to the CS5.1 directory.  After you have 
+done that copy the CS5.0/config/cserve.conf to the CS5.1/config
+directory.
+
+Do not reuse the command.dat from the CS5.0/config directory or
+your bot will not work properly.  If you have made changes to your
+levels or command names you must redo after you have started CS5.1
+using the command as you did the first time.
+
+I am sorry for the inconvenience that these steps might casue, but
+what you want for free.
+
+					Opus

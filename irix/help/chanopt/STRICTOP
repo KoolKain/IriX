@@ -1,0 +1,10 @@
+     Syntax:   CHANOPT <channel> STRICTOP
+     Use:      Set/remove strict ops. Only authorized users are 
+               allowed to have ops on the channel.
+               This command toggles the value; if STRICTOP is ON
+               executing this command will turn STRICTOP OFF
+     Example:  /msg \n CHANOPT #MyChan STRICTOP
+     ----------
+     Suggested Use:
+     ----------
+     Provide channel control if needed.

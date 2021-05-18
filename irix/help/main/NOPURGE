@@ -1,0 +1,3 @@
+     Syntax:   NOPURGE <channel>
+     Use:      Used to keep a channel from purging when it has 
+               exceeded the purge channel timeout period.

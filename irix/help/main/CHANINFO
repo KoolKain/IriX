@@ -1,0 +1,11 @@
+     Syntax:   CHANINFO <channel>
+     Use:      See information about the channel
+               for explanation of Settings line, see 
+               the help for CHANOPT
+     Example:  /msg \n CHANINFO #MyChannel
+     ----------
+     Note:
+     ----------
+     The name and email address of the owner is hidden to users
+     other than the owner in that channel.. Cservice staff is authorized to
+     hand out this information if specifically needed.

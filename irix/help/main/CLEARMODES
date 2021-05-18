@@ -1,0 +1,3 @@
+     Syntax:   CLEARMODES <channel>
+     Use:      Used to clear ALL current channel modes
+     Example:  /msg \n CLEARMODES #MyChan

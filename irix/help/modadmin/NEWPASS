@@ -1,0 +1,7 @@
+     Syntax:   MODADMIN NEWPASS <IDnick> <newpassword>
+     Use:      Change the admin password for someone.
+     Example:  /msg \n MODADMIN NEWPASS Bob inkydinkydoo
+     ----------
+     Suggested Use:
+     ----------
+     Set a new password for an admin.

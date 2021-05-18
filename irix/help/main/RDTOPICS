@@ -1,0 +1,5 @@
+     Syntax:   RDTOPICS
+     Use:      This will reset all channels to there default topic
+               This can be used to resync all channels after a 
+               server split.
+

@@ -1,0 +1,5 @@
+     Syntax:   MODUSER <channel> <option> <IDnick> <parameter list>
+               For help on individual options
+                 /msg \n HELP MODUSER <option>
+               For a list of MODUSER options
+                 /msg \n HELP MODUSER

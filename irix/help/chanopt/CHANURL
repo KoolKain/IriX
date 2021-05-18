@@ -1,0 +1,7 @@
+     Syntax:   CHANOPT <channel> CHANURL <http://www.yoursite.com>
+     Use:      Set a URL related to the channel
+     Example:  /msg \n CHANOPT #MyChan CHANURL http://wherever.com/myhome
+     ----------
+     Suggested Use:
+     ----------
+     Inform people where to find a web page related to the channel.

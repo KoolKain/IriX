@@ -1,0 +1,10 @@
+     Syntax:   MODADMIN ADDMASK <IDNick> <nick!user@host>
+     Use:      Associates a hostmask with a partcular IDnick
+     Example:  /msg \n MODADMIN ADDMASK Bob somenick!*userstuf@*.myhost.com
+     ----------
+     Suggested Use:
+     ----------
+     Used to add a nick!user@host mask to the users mask list
+     for authentication purposes. The user must authenticate
+     from a host on the list in order that the authentication
+     be successful.

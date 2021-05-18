@@ -1,0 +1,4 @@
+     Syntax:   JOIN <channel>
+     Use:      Used to make \n join a specified registered channel,
+               if it had been manually removed.
+               Only can be performed by Channel Services Staff

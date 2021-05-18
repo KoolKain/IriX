@@ -1,0 +1,11 @@
+     Syntax:   KICKBAN <channel> [level] <nickname> [duration:units] [reason]
+     Use:      Used to kick and ban the specified users. The bot will
+               figure out their full ban mask for you and will
+               place the ban on its banlist. The ban will be
+               followed by a kick
+               LEVEL is what level can remove the ban
+               Units is seconds, minutes, hours, days, weeks, months
+     Example:  /msg \n KICKBAN #cservice 300  gates 2:days flooding channel
+               Will find the nick!user@host mask for the nicks
+               specified and ban them as follows:
+               *!*gates@*.microsoft.com

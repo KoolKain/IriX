@@ -1,0 +1,4 @@
+     Syntax:   SUSPENDNICK <channel> <IDNick>
+     Use:      Used to suspend/unsuspend an individual user from bot access.
+               until SUSPENDNICK is re-issued, all data for user is kept 
+               in the channel's user database

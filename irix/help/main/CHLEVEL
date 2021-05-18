@@ -1,0 +1,2 @@
+     Syntax:   CHLEVEL <command> <new level>
+     Use:      Used to change a given access level a command requires.

@@ -1,0 +1,3 @@
+     Syntax:   ADDUSER <channel> <IDnick> <nick!user@host> <accesslevel> <autoop> <protect> <password>
+                 or if user is online
+     Syntax:   ADDUSER <channel> <IDnick> <accesslevel> <password>

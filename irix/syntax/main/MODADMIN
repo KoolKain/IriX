@@ -1,0 +1,5 @@
+     Syntax:   MODADMIN <option> <IDnick> <parameter list>
+               For help on individual options 
+                 /msg \n HELP MODADMIN <option>
+               For a list of MODADMIN options
+                 /msg \n HELP MODADMIN 

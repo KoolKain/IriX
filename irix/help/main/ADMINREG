@@ -1,0 +1,5 @@
+     Syntax:   ADMINREG <channel> <IDNick> <nick!user@host> <password>
+     Use:      This command is used to allow \n admins to register more
+               than one channel for a user. Normally, you will not have
+               to use this command.  You MUST supply the users password.
+     Example:  /msg \n ADMINREG #MyChan Bill *!*bgates@microsoft.com Money

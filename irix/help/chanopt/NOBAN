@@ -1,0 +1,11 @@
+     Syntax:   CHANOPT <channel> NOBAN 
+     Use:      Disable banning on a channel. Banning can only
+               be done through the bot.
+               This command toggles the value; if NOBAN is ON
+               executing this command will turn NOBAN OFF
+     Example:  /msg \n CHANOPT #MyChan NOBAN
+     ----------
+     Suggested Use:
+     ----------
+     Prevent banning on a channel, unless done through
+     \n's BAN, NICKBAN, and UNBAN commands.

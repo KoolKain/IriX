@@ -1,0 +1,7 @@
+     Syntax:   MODUSER <#Channel> NEWPASS <IDnick> <newpassword>
+     Use:      Change the channel password for someone.
+     Example:  /msg \n MODUSER #Channel NEWPASS Bob inkydinkydoo
+     ----------
+     Suggested Use:
+     ----------
+     Set a new password for a user.

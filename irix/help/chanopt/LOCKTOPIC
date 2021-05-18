@@ -1,0 +1,4 @@
+     Syntax:   CHANOPT <channel> LOCKTOPIC
+     Use:      Locks the current topic; if the topic is changed,
+               the bot will reset it to what it was.
+     Example:  /msg \n CHANOPT #MyChan LOCKTOPIC

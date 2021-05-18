@@ -1,0 +1,5 @@
+     Syntax:   MODERATE <channel>
+     Use:      This will set the channel to +m and all present users
+               will be set to +v.  If a user joins after the command
+               is issued, they will not be made +v.
+

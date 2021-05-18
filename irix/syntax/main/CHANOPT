@@ -1,0 +1,5 @@
+     Syntax:   CHANOPT <channel> <option> <parameter list>
+               For help on individual options
+                 /msg \n HELP CHANOPT <option>
+               For a list of channel options
+                 /msg \n HELP CHANOPT

@@ -1,0 +1,3 @@
+     Syntax:   CHANOPT <channel> CHMODESLEVEL <0-500>
+     Use:      Enable a minimum access level to change channel modes
+     Example:  /msg \n CHANOPT #MyChan CHMODESLEVEL 50

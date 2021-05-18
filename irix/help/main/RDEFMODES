@@ -1,0 +1,3 @@
+     Syntax:   RDEFMODES <channel>
+     Use:      This will reset the modes back to the channel default
+               modes which are set by the CHANOPT command.

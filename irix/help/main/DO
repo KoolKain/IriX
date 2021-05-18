@@ -1,0 +1,3 @@
+     Syntax:   DO <channel> <action>
+     Use:      Used to make \n perform a /me on a give channel
+

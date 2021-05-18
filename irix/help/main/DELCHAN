@@ -1,0 +1,9 @@
+     Syntax:   DELCHAN <channel> <reason>
+     Use:      Removes a registered channel.
+     Example:  /msg \n DELCHAN #MyChannel
+     ----------
+     Suggested Use:
+     ----------
+     Please be careful when using this command. Any channel 
+     deleted with this command CANNOT be retreived, and all its 
+     user information is lost.

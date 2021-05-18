@@ -1,0 +1,4 @@
+     Syntax:   SUSPENDCHAN <channel>
+     Use:      Used to suspend/unsuspend a channel from being serviced by the bot
+               until the SUSPENDCHAN command is issued again.  All user lists
+               and option lists are kept intact.

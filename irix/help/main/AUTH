@@ -1,0 +1,11 @@
+     Syntax:   AUTH <channel> <IDnick> <password>
+     Use:      Proves that you are who the bot thinks you are.
+     Example:  /msg \n AUTH #Mychannel MyIDnick MyCoolSecretPassword
+     ----------
+     Suggested Use:
+     ----------
+     You Must authenticate yourself to use any commands on
+     this service. This is performed for each channel you
+     are a member of.  You are authenticated for the period
+     of time you are on the network, or until you choose to
+     DEAUTH yourself from the channel list. (See DEAUTH)

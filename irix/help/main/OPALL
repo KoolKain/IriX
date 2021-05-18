@@ -1,0 +1,4 @@
+     Syntax:   OPALL <channel>
+     Use:      Used to grant ops to all members of the channel
+               by user with 400 or greater access
+

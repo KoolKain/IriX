@@ -1,0 +1,3 @@
+     Syntax:   CHANOPT <channel> DEFMODES <+/-[iklmnpst]>
+     Use:      Set the default channel modes.
+     Example:  /msg \n CHANOPT #MyChan DEFMODES +tn

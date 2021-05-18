@@ -1,0 +1,8 @@
+     Syntax:   CHANOPT <channel> STAY
+               This command toggles the value; if STAY is ON
+               executing this command will turn STAY OFF
+     Use:      Setting this off will make \n leave your channel
+               when all users on it have left. It will rejoin the channel
+               as soon as one or more users join it, immediatly set the
+               modes, and topic.
+     Example:  /msg \n CHANOPT #MyChan STAY

@@ -1,0 +1,3 @@
+     Syntax:   CHANOPT <channel> OWNERNICK <IDnick>
+     Use:      Change the channel owner's IDnick
+     Example:  /msg \n CHANOPT #MyChan OWNERNICK newIDnick

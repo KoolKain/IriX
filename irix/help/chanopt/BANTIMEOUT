@@ -1,0 +1,5 @@
+     Syntax:   CHANOPT <channel> BANTIMEOUT <duration:units>
+     Use:      The timout value that will be used by BANMOVE
+               when a channel ban is moved to the bots internal
+               banlist.
+     Example:  /msg \n CHANOPT #MyChan BANTIMEOUT 2:hours

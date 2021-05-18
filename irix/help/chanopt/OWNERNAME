@@ -1,0 +1,3 @@
+     Syntax:   CHANOPT <channel> OWNERNAME <firstname lastname>
+     Use:      Change channel owner's name.
+     Example:  /msg \n CHANOPT #Mychan OWNERNAME Ircuser MacSmith

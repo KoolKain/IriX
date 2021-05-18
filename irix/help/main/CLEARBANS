@@ -1,0 +1,21 @@
+     Syntax:   CLEARBANS <channel> [<,> ban level] [nick!user@host]
+     Use:      Used to clear the channel banlist
+     NOTE:     If you use /msg \n CLEARBANS #channel with no level
+               specified, all bans will be removed.
+     Examples:
+               CLEARBANS #southpole <200
+                       Clears all bans below removal level of 200,
+                       that are also below or at your removal level
+\r
+               CLEARBANS #southpole >200
+                       Clears all bans above removal level of 200
+                       that are also below or at your removal level
+\r
+               CLEARBANS #southpole
+                       Removes all bans below or at your removal level
+\r
+               CLEARBANS #southpole *!*@*.edu
+                       Removes all bans matching the specified host
+                       at or below your removal level
+\r
+               CLEARBANS #southpole >200 *!*@*.edu

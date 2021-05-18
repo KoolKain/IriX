@@ -1,0 +1,3 @@
+     Syntax:   INVITE <channel> <nickname>
+     Use:      Invite someone to a channel.
+     Example:  /msg \n INVITE #MyChannel myfriend

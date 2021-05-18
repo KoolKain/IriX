@@ -1,0 +1,8 @@
+     Syntax:   CHANOPT <channel> BANMOVE <OFF,0,duration:unit>
+     Use:      Sets the time period for how often the bot moves channel
+               bans to its internal banlist
+               Time is in minutes or hours; if the value is set to 0
+               the bot will move the channel bans to its internal list 
+               as soon as a user joins.  OFF will never move the bans.
+               If BANMOVE is enabled, BANREMOVE is automatically disabled
+     Example:  /msg \n CHANOPT #MyChan BANMOVE 2:hours

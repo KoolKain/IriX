@@ -1,0 +1,4 @@
+     Syntax:   RENCHAN <old channel name> <new channel name>
+     Use:      Used to change the registered name of a channel
+               without destroying its userbase.
+

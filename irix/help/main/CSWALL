@@ -1,0 +1,3 @@
+     Syntax:   CSWALL <message>
+     Use:      To message all authed Cservice admins
+     Example:  /msg \n CSWALL All Cservice people must be -i

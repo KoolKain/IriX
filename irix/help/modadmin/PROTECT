@@ -1,0 +1,7 @@
+     Syntax:   MODADMIN PROTECT <IDNick>
+     Use:      Toggles the protect mode on or off for an admin
+     Example:  /msg \n MODADMIN PROTECT <IDNick>
+     ----------
+     Suggested Use:
+     ----------
+     Protect (or unprotect) a user from kicking/deopping you.

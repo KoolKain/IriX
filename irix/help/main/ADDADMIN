@@ -1,0 +1,13 @@
+     Syntax:   ADDADMIN <IDNick> <nick!user@host> <level> <autoop> <protect> <password>
+               - or -
+     Syntax:   ADDADMIN <IDnick> <level> <password>
+     Use:      Used to add a Channel Service Admin to cservice 
+               database. Accessible to 700+ members only. Same rules
+               apply (See ADDUSER)
+               If the user you wish to add is online at the time, you
+               can have \n figure out their mask by using ADDADMIN
+               without putting a nick!user@host; they then are added
+               with the default settings and their current nick will
+               be their IDnick
+     Example:  /msg \n ADDADMIN Bill *!*bclinton@*.whitehouse.gov 
+               200 ON OFF WoeIsMe 

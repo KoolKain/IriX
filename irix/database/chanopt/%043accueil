@@ -1,0 +1,27 @@
+STRICTOP 0
+LASTSEEN 1381852871
+NOBAN 0
+CHMODESLEVEL 50
+DEFMODES +nt
+OWNERNICK KoolCain
+OWNERNAME 
+OWNEREMAIL 
+WELCOME 1Toutes les nouveautÃ©es sur notre site internet : http://teamscript.fr 4Pas de spam, trash ou critiques nÃ©gatives et non constructives !
+MOTD Pour des raisons de sécurité, veuillez ne pas avoir plus de 5 mask à votre access. Faites plutôt comme ceci: votrePseudo!*@* et VotrePseudo|*!*@* avec la commande moduser addmask
+BANLEVEL 0
+DESCRIPTION 
+OPEROP 0
+NOOPS 0
+DEFTOPIC 1Bienvenue sur le serveur 12TeamScript,6 Maintenance IRcs 1-> 3TerminÃ© 1Pour avoir la liste des servers IRCs -> sur http://www.teamscript.fr/forum/viewtopic.php?id=5&action=new Bon t'Chat Ã  tous.
+CHANURL 
+SETUPDATE 142340284
+STAY 1
+SETWELCOME 1
+NOPURGE 1
+SETVOICE 0
+SUSPEND 0
+TOPICLOCK 0
+BANMOVE -1
+BANREMOVE 0
+BANTIMEOUT 0
+AUTOOPS 0

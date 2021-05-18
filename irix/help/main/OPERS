@@ -1,0 +1,5 @@
+     Syntax:   OPERS <channel>
+     Use:      This command will have \n invite you to the specified channel.
+               \n must be present in the channel for it to work.
+     Note:     This command can be used by any oper, you do not need to be a
+               CSadmin to use this.

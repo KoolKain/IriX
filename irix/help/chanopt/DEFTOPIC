@@ -1,0 +1,3 @@
+     Syntax:   CHANOPT <channel> DEFTOPIC <default channel topic>
+     Use:      Set a default topic for the channel.
+     Example:  /msg \n CHANOPT #MyChan DEFTOPIC Welcome to ChatLand

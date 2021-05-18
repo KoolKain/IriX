@@ -1,0 +1,333 @@
+[Sat Jan 10 20:31:38 2009] snT csauth snt
+[Sat Jan 10 20:31:54 2009] snT adminreg #!Accueil!
+[Sat Jan 10 20:35:34 2009] syspeo csauth k2a97k
+[Sat Jan 10 20:35:46 2009] syspeo admin
+[Sat Jan 10 20:36:15 2009] syspeo VERSION
+[Sat Jan 10 20:38:32 2009] SnT|OqP delchan #!Accueil!
+[Sat Jan 10 20:38:39 2009] SnT|OqP die
+[Sat Jan 10 20:39:13 2009] SnT|OqP csauth snt
+[Sat Jan 10 20:39:26 2009] SnT|OqP adminreg #!Accueil!
+[Sat Jan 10 20:40:44 2009] SnT|OqP restart
+[Sat Jan 10 20:40:44 2009] Rehashing IriX
+[Sat Jan 10 20:42:45 2009] SnT|OqP chaninfo #!Accueil!
+[Sat Jan 10 20:43:11 2009] syspeo chaninfo #!Accueil!
+[Sat Jan 10 20:44:10 2009] syspeo showcommands
+[Sat Jan 10 20:45:18 2009] SnT|OqP csauth snt
+[Sat Jan 10 20:45:22 2009] SnT|OqP delchan #!Accueil!
+[Sat Jan 10 20:45:30 2009] SnT|OqP die
+[Sat Jan 10 20:47:50 2009] SnT|OqP csauth snt
+[Sat Jan 10 20:47:52 2009] SnT|OqP adminreg #!Accueil!
+[Sat Jan 10 20:48:07 2009] SnT|OqP delchan #!Accueil!
+[Sat Jan 10 20:48:32 2009] SnT|OqP adminreg #!Accueil!
+[Sat Jan 10 20:48:48 2009] SnT|OqP chaninfo #!Accueil!
+[Sat Jan 10 20:50:52 2009] syspeo csauth K2a97K
+[Sat Jan 10 20:50:57 2009] syspeo chaninfo #!Accueil!
+[Sat Jan 10 20:52:03 2009] SnT|OqP die
+[Sat Jan 10 20:52:28 2009] SnT|OqP csauth snt
+[Sat Jan 10 20:52:33 2009] SnT|OqP delchan #!Accueil!
+[Sat Jan 10 20:52:39 2009] SnT|OqP adminreg #!Accueil!
+[Sat Jan 10 20:52:48 2009] SnT|OqP chaninfo #!Accueil!
+[Sat Jan 10 20:53:00 2009] syspeo csauth K2a97K
+[Sat Jan 10 20:53:02 2009] syspeo chaninfo #!Accueil!
+[Sat Jan 10 20:53:04 2009] SnT|OqP delchan #!Accueil!
+[Sat Jan 10 20:53:07 2009] SnT|OqP die
+[Sat Jan 10 20:58:11 2009] SnT|OqP csauth snt
+[Sat Jan 10 20:58:28 2009] SnT|OqP adminreg #!Accueil!
+[Sat Jan 10 20:58:38 2009] SnT|OqP chaninfo #!Accueil!
+[Sat Jan 10 20:58:55 2009] syspeo chaninfo #!Accueil!
+[Sat Jan 10 20:59:14 2009] SnT|OqP rdefmodes #!Accueil!
+[Sat Jan 10 21:01:29 2009] SnT|OqP restart
+[Sat Jan 10 21:01:29 2009] Rehashing IriX
+[Sat Jan 10 21:02:12 2009] SnT|OqP csauth snt
+[Sat Jan 10 21:03:07 2009] SnT|OqP csauth snt
+[Sat Jan 10 21:03:14 2009] SnT|OqP delchan #!Accueil!
+[Sat Jan 10 21:03:18 2009] SnT|OqP adminreg #!Accueil!
+[Sat Jan 10 21:05:16 2009] SnT|OqP restart
+[Sat Jan 10 21:05:16 2009] Rehashing IriX
+[Sat Jan 10 21:11:54 2009] SnT|OqP csauth snt
+[Sat Jan 10 21:11:56 2009] SnT|OqP mode #!Accueil!
+[Sat Jan 10 21:12:02 2009] SnT|OqP mode #!Accueil!
+[Sat Jan 10 21:13:40 2009] SnT|OqP mode #!Accueil!
+[Sat Jan 10 21:15:04 2009] SnT|OqP die
+[Sat Jan 10 21:15:23 2009] SnT|OqP csauth snt
+[Sat Jan 10 21:15:31 2009] SnT|OqP mode #!Accueil!
+[Sat Jan 10 21:27:29 2009] SnT|OqP die
+[Sat Jan 10 21:27:45 2009] SnT|OqP csauth snt
+[Sat Jan 10 21:27:49 2009] SnT|OqP delchan #!Accueil!
+[Sat Jan 10 21:27:57 2009] SnT|OqP adminreg #!Accueil!
+[Sat Jan 10 21:28:26 2009] SnT|OqP die
+[Sat Jan 10 21:30:18 2009] SnT|OqP csauth snt
+[Sat Jan 10 21:30:21 2009] SnT|OqP delchan #!Accueil!
+[Sat Jan 10 21:30:24 2009] SnT|OqP csauth snt
+[Sat Jan 10 21:30:26 2009] SnT|OqP adminreg #!Accueil!
+[Sat Jan 10 21:30:35 2009] SnT|OqP chaninfo #!Accueil!
+[Sat Jan 10 21:31:19 2009] syspeo chaninfo #!Accueil!
+[Sat Jan 10 21:33:04 2009] syspeo csauth K2a97K
+[Sat Jan 10 21:33:06 2009] syspeo mode #!Accueil!
+[Sat Jan 10 21:33:19 2009] syspeo mode #!Accueil!
+[Sat Jan 10 21:33:31 2009] syspeo mode #!Accueil!
+[Sat Jan 10 21:33:35 2009] syspeo mode #!Accueil!
+[Sat Jan 10 21:33:37 2009] syspeo mode #!Accueil!
+[Sat Jan 10 21:33:49 2009] syspeo chanopt #!Accueil!
+[Sat Jan 10 21:34:10 2009] syspeo chanopt #!Accueil!
+[Sat Jan 10 21:34:14 2009] syspeo rdeftopic #!Accueil!
+[Sat Jan 10 21:34:18 2009] syspeo rdefmodes #!Accueil!
+[Sat Jan 10 21:34:22 2009] SnT|OqP die
+[Sat Jan 10 21:36:23 2009] SnT|OqP csauth snt
+[Sat Jan 10 21:36:25 2009] SnT|OqP delchan #!Accueil!
+[Sat Jan 10 21:36:31 2009] SnT|OqP adminreg #!Accueil!
+[Sat Jan 10 21:36:44 2009] SnT|OqP chaninfo #!Accueil!
+[Sat Jan 10 21:36:57 2009] SnT|OqP die
+[Sat Jan 10 21:40:28 2009] SnT|OqP csauth snt
+[Sat Jan 10 21:40:33 2009] SnT|OqP delchan #!Accueil!
+[Sat Jan 10 21:40:35 2009] SnT|OqP adminreg #!Accueil!
+[Sat Jan 10 21:40:40 2009] SnT|OqP chaninfo #!Accueil!
+[Sat Jan 10 21:40:40 2009] syspeo chaninfo #!Accueil!
+[Sat Jan 10 21:41:34 2009] SnT|OqP die
+[Sat Jan 10 21:42:56 2009] SnT|OqP csauth snt
+[Sat Jan 10 21:42:56 2009] syspeo chaninfo #!Accueil!
+[Sat Jan 10 21:42:59 2009] SnT|OqP delchan #!Accueil!
+[Sat Jan 10 21:43:01 2009] SnT|OqP adminreg #!Accueil!
+[Sat Jan 10 21:43:04 2009] syspeo chaninfo #!Accueil!
+[Sat Jan 10 21:43:04 2009] SnT|OqP chaninfo #!Accueil!
+[Sat Jan 10 21:44:29 2009] syspeo csauth K2a97K
+[Sat Jan 10 21:44:33 2009] syspeo chanlist *
+[Sat Jan 10 21:44:38 2009] syspeo chanlist =
+[Sat Jan 10 21:44:43 2009] syspeo chanlist =*
+[Sat Jan 10 21:44:51 2009] syspeo chanlist *
+[Sat Jan 10 21:47:43 2009] SnT|OqP delchan #!Accueil!
+[Sat Jan 10 21:47:47 2009] SnT|OqP die
+[Sat Jan 10 21:48:13 2009] SnT|OqP csauth snt
+[Sat Jan 10 21:48:14 2009] SnT|OqP adminreg #!Accueil!
+[Sat Jan 10 21:48:22 2009] SnT|OqP chaninfo #!Accueil!
+[Sat Jan 10 21:48:38 2009] syspeo chaninfo #!Accueil!
+[Sat Jan 10 21:52:39 2009] syspeo csauth K2a97K
+[Sat Jan 10 21:52:41 2009] syspeo alist #!Accueil!
+[Sat Jan 10 21:56:38 2009] SnT|OqP delchan #!Accueil!
+[Sat Jan 10 21:57:06 2009] SnT|OqP die
+[Sat Jan 10 21:57:57 2009] SnT|OqP csauth snt
+[Sat Jan 10 21:57:59 2009] SnT|OqP adminreg #!Accueil!
+[Sat Jan 10 21:58:09 2009] SnT|OqP chaninfo #!Accueil!
+[Sat Jan 10 21:58:14 2009] SnT|OqP rdeftopic #!Accueil!
+[Sat Jan 10 21:58:40 2009] syspeo chaninfo #!Accueil!
+[Sat Jan 10 21:58:53 2009] SnT|OqP delchan #!Accueil!
+[Sat Jan 10 21:58:57 2009] SnT|OqP die
+[Sat Jan 10 22:01:00 2009] SnT|OqP csauth snt
+[Sat Jan 10 22:01:01 2009] SnT|OqP adminreg #!Accueil!
+[Sat Jan 10 22:01:47 2009] syspeo chaninfo #!Accueil!
+[Sat Jan 10 22:05:32 2009] SnT|OqP mode #!Accueil!
+[Sat Jan 10 22:05:49 2009] SnT|OqP mode #!Accueil!
+[Sat Jan 10 22:08:35 2009] SnT|OqP chaninfo #!Accueil!
+[Sat Jan 10 22:09:16 2009] SnT|OqP delchan #!Accueil!
+[Sat Jan 10 22:09:19 2009] SnT|OqP die
+[Sat Jan 10 22:09:27 2009] SnT|OqP csauth snt
+[Sat Jan 10 22:09:29 2009] SnT|OqP adminreg #!Accueil!
+[Sat Jan 10 22:09:32 2009] SnT|OqP chaninfo #!Accueil!
+[Sat Jan 10 22:10:10 2009] SnT|OqP auth *******
+[Sat Jan 10 22:10:35 2009] SnT|OqP delchan #!Accueil!
+[Sat Jan 10 22:10:38 2009] SnT|OqP die
+[Sat Jan 10 22:12:32 2009] SnT|OqP csauth snt
+[Sat Jan 10 22:12:33 2009] SnT|OqP adminreg #!Accueil!
+[Sat Jan 10 22:13:45 2009] SnT|OqP delchan #!Accueil!
+[Sat Jan 10 22:13:50 2009] SnT|OqP die
+[Sat Jan 10 22:22:00 2009] SnT|OqP csauth snt
+[Sat Jan 10 22:22:02 2009] SnT|OqP adminreg #!Accueil!
+[Sat Jan 10 22:22:11 2009] SnT|OqP delchan #!Accueil!
+[Sat Jan 10 22:23:43 2009] SnT|OqP adminreg #!Accueil!
+[Sat Jan 10 22:23:51 2009] SnT|OqP delchan #!Accueil!
+[Sat Jan 10 22:25:13 2009] SnT|OqP die
+[Sat Jan 10 22:25:35 2009] SnT|OqP csauth snt
+[Sat Jan 10 22:25:36 2009] SnT|OqP adminreg #!Accueil!
+[Sat Jan 10 22:25:45 2009] SnT|OqP delchan #!Accueil!
+[Sat Jan 10 22:26:31 2009] SnT|OqP adminreg #!Accueil!
+[Sat Jan 10 22:26:37 2009] SnT|OqP restart
+[Sat Jan 10 22:26:38 2009] Rehashing IriX
+[Sat Jan 10 22:27:54 2009] SnT|OqP csauth snt
+[Sat Jan 10 22:27:56 2009] SnT|OqP die
+[Sat Jan 10 22:28:36 2009] SnT|OqP csauth snt
+[Sat Jan 10 22:28:40 2009] SnT|OqP chanlist *
+[Sat Jan 10 22:28:53 2009] syspeo csauth K2a97K
+[Sat Jan 10 22:28:57 2009] syspeo chanlist *
+[Sat Jan 10 22:31:52 2009] SnT|OqP die
+[Sat Jan 10 22:32:16 2009] SnT|OqP csauth snt
+[Sat Jan 10 22:32:18 2009] SnT|OqP alist #!Accueil!
+[Sat Jan 10 22:32:27 2009] syspeo csauth K2a97K
+[Sat Jan 10 22:32:31 2009] syspeo alist #CServe_msg
+[Sat Jan 10 22:32:37 2009] SnT|OqP auth *******
+[Sat Jan 10 22:32:39 2009] SnT|OqP alist #!Accueil!
+[Sat Jan 10 22:34:29 2009] SnT|OqP auth *******
+[Sat Jan 10 22:34:43 2009] SnT|OqP csauth snt
+[Sat Jan 10 22:34:46 2009] SnT|OqP alist #!Accueil!
+[Sat Jan 10 22:35:02 2009] syspeo csauth K2a97K
+[Sat Jan 10 22:35:06 2009] syspeo alist #cservice
+[Sat Jan 10 22:35:38 2009] SnT|OqP deluser #!Accueil!
+[Sat Jan 10 22:35:40 2009] SnT|OqP alist #!Accueil!
+[Sat Jan 10 22:35:50 2009] syspeo alist #!Accueil!
+[Sat Jan 10 22:36:22 2009] SnT|OqP op #!Accueil!
+[Sat Jan 10 22:36:24 2009] SnT|OqP deop #!Accueil!
+[Sat Jan 10 22:36:53 2009] syspeo admin
+[Sat Jan 10 22:36:54 2009] SnT|OqP showcommands
+[Sat Jan 10 22:37:33 2009] SnT|OqP isauthed #!Accueil!
+[Sat Jan 10 22:37:35 2009] SnT|OqP isauthed #!Accueil!
+[Sat Jan 10 22:37:38 2009] SnT|OqP isauthed #!Accueil!
+[Sat Jan 10 22:37:40 2009] SnT|OqP isauthed #!Accueil!
+[Sat Jan 10 22:37:50 2009] SnT|OqP whois k
+[Sat Jan 10 22:37:51 2009] SnT|OqP whois SnT|OqP
+[Tue Oct 15 14:41:56 2013] PPs admin
+[Tue Oct 15 14:42:06 2013] PPs showcommands
+[Tue Oct 15 14:43:35 2013] PPs chaninfo #!accueil!
+[Tue Oct 15 14:44:17 2013] IluZi0n showcommands
+[Tue Oct 15 14:44:22 2013] PPs admin
+[Tue Oct 15 14:44:43 2013] K2a97K csauth K2a97K
+[Tue Oct 15 14:45:01 2013] K2a97K inviteme
+[Tue Oct 15 14:45:04 2013] K2a97K invite #!accueil!
+[Tue Oct 15 14:55:40 2013] K2a97K chanlist
+[Tue Oct 15 14:55:42 2013] K2a97K chanlist *
+[Tue Oct 15 14:59:00 2013] K2a97K kick #!accueil!
+[Tue Oct 15 16:28:57 2013] K2a97K csauth K2a97K
+[Tue Oct 15 16:29:00 2013] K2a97K kick #!accueil!
+[Tue Oct 15 16:30:16 2013] K2a97K kick #!accueil!
+[Tue Oct 15 16:30:19 2013] K2a97K kick #!accueil!
+[Tue Oct 15 16:37:14 2013] K2a97K csauth K2a97K
+[Tue Oct 15 16:37:19 2013] K2a97K kick #!accueil!
+[Tue Oct 15 17:17:45 2013] KoolCain access #!accueil!
+[Tue Oct 15 17:17:57 2013] KoolCain csauth KoolCain
+[Tue Oct 15 17:18:01 2013] KoolCain admin
+[Tue Oct 15 17:49:19 2013] KoolCain csauth KoolCain
+[Tue Oct 15 17:49:29 2013] KoolCain restart
+[Tue Oct 15 17:49:29 2013] Rehashing IriX
+[Tue Oct 15 17:49:58 2013] KoolCain csauth KoolCain
+[Tue Oct 15 17:50:00 2013] KoolCain die
+[Tue Oct 15 17:52:28 2013] KoolCain csauth KoolCain
+[Tue Oct 15 17:52:29 2013] KoolCain adminreg #Accueil
+[Tue Oct 15 17:52:41 2013] KoolCain restart
+[Tue Oct 15 17:52:41 2013] Rehashing IriX
+[Tue Oct 15 18:00:50 2013] KoolCain csauth KoolCain
+[Tue Oct 15 18:01:03 2013] KoolCain delchan #Accueil
+[Tue Oct 15 18:01:05 2013] KoolCain delchan #Accueil
+[Tue Oct 15 18:01:11 2013] KoolCain adminreg #Accueil
+[Tue Oct 15 21:38:57 2013] KoolCain csauth KoolCain
+[Tue Oct 15 21:39:01 2013] KoolCain chanopt #Accueil
+[Tue Oct 15 21:40:02 2013] KoolCain showcommands
+[Tue Oct 15 21:40:45 2013] KoolCain whois k
+[Tue Oct 15 21:40:51 2013] KoolCain whois koolcain
+[Tue Oct 15 21:41:35 2013] KoolCain delchan #!accueil!
+[Tue Oct 15 21:49:44 2013] KoolCain chaninfo #cservice
+[Tue Oct 15 21:49:54 2013] KoolCain csauth KoolCain
+[Tue Oct 15 21:49:56 2013] KoolCain csauth KoolCain
+[Tue Oct 15 21:49:59 2013] KoolCain chaninfo #cservice
+[Wed Oct 16 19:50:04 2013] KoolCain csauth KoolCain
+[Wed Oct 16 19:50:18 2013] KoolCain adminreg #Aide
+[Wed Oct 16 19:50:27 2013] KoolCain adminreg #TeamScript
+[Wed Oct 16 19:50:58 2013] KoolCain adminreg #tglobe
+[Wed Oct 16 19:51:28 2013] KoolCain adminreg #Csadmins
+[Wed Oct 16 19:51:59 2013] KoolCain chanopt #TeamScript
+[Wed Oct 16 19:52:18 2013] KoolCain chanopt #Csadmins
+[Wed Oct 16 19:52:30 2013] KoolCain chanopt #Aide
+[Wed Oct 16 19:52:54 2013] KoolCain adminreg #20-35ans
+[Wed Oct 16 19:53:15 2013] KoolCain chanopt #20-35ans
+[Wed Oct 16 19:53:18 2013] KoolCain nopurge #20-35ans
+[Wed Oct 16 19:53:23 2013] KoolCain nopurge #Accueil
+[Wed Oct 16 19:53:28 2013] KoolCain nopurge #Aide
+[Wed Oct 16 19:53:32 2013] KoolCain nopurge #Csadmins
+[Wed Oct 16 19:53:34 2013] KoolCain nopurge #TeamScript
+[Wed Oct 16 19:53:37 2013] KoolCain nopurge #tglobe
+[Wed Oct 16 19:54:56 2013] KoolCain chanopt #Accueil
+[Wed Oct 16 19:55:08 2013] KoolCain chanopt #Accueil
+[Wed Oct 16 19:55:27 2013] KoolCain chanopt #Accueil
+[Wed Oct 16 20:03:36 2013] KoolCain addadmin [MaD]
+[Wed Oct 16 20:03:59 2013] KoolCain addadmin MacHeckett
+[Wed Oct 16 20:04:04 2013] KoolCain addadmin MacHeckett
+[Wed Oct 16 20:04:25 2013] KoolCain addadmin Benjamin
+[Wed Oct 16 20:04:49 2013] KoolCain addadmin Miss_K_trina
+[Wed Oct 16 20:04:53 2013] KoolCain showcommands
+[Wed Oct 16 20:05:23 2013] KoolCain operlist
+[Wed Oct 16 20:05:55 2013] KoolCain getip KoolCain
+[Wed Oct 16 20:06:04 2013] KoolCain getdns KoolCain
+[Wed Oct 16 20:06:19 2013] KoolCain ENABLECOM getip
+[Wed Oct 16 20:06:23 2013] KoolCain ENABLECOM getip
+[Wed Oct 16 20:06:45 2013] KoolCain disablecom getip
+[Wed Oct 16 20:06:53 2013] KoolCain getip KoolCain
+[Wed Oct 16 20:08:24 2013] KoolCain whois KoolCain
+[Wed Oct 16 20:08:29 2013] KoolCain whois KoolCain
+[Wed Oct 16 20:09:14 2013] KoolCain write
+[Wed Oct 16 20:10:06 2013] KoolCain restart
+[Wed Oct 16 20:10:06 2013] Rehashing IriX
+[Wed Oct 16 20:10:18 2013] KoolCain showcommands
+[Wed Oct 16 20:10:31 2013] KoolCain whois KoolCain
+[Wed Oct 16 20:10:45 2013] KoolCain csauth KoolCain
+[Wed Oct 16 20:10:46 2013] KoolCain die
+[Wed Oct 16 20:11:18 2013] KoolCain whois KoolCain
+[Wed Oct 16 20:11:26 2013] KoolCain showcommands
+[Wed Oct 16 20:11:39 2013] KoolCain csauth KoolCain
+[Wed Oct 16 20:11:40 2013] KoolCain showcommands
+[Wed Oct 16 20:12:42 2013] KoolCain die
+[Wed Oct 16 20:37:36 2013] [MaD] auth *******
+[Wed Oct 16 20:47:08 2013] MacHeckett csauth MacHeckett
+[Wed Oct 16 20:49:38 2013] KoolCain csauth KoolCain
+[Wed Oct 16 20:49:48 2013] KoolCain csauth KoolCain
+[Wed Oct 16 20:49:51 2013] KoolCain chanopt #tglobe
+[Wed Oct 16 21:07:24 2013] KoolCain ban #Accueil
+[Wed Oct 16 21:07:30 2013] KoolCain kick #Accueil
+[Wed Oct 16 21:15:08 2013] Miss_K_trina csauth Miss_K_trina
+[Wed Oct 16 21:15:21 2013] Miss_K_trina inviteme
+[Wed Oct 16 21:17:09 2013] KoolCain clearbans #Accueil
+[Wed Oct 16 21:37:04 2013] KoolCain access #Accueil
+[Wed Oct 16 22:04:05 2013] KoolCain admin
+[Wed Oct 16 22:04:17 2013] KoolCain showcommands
+[Wed Oct 16 22:05:21 2013] KoolCain help SHOWDISCOM
+[Wed Oct 16 22:08:24 2013] KoolCain chanopt #Accueil
+[Wed Oct 16 22:30:57 2013] KoolCain csauth KoolCain
+[Wed Oct 16 22:30:59 2013] KoolCain do #Accueil
+[Wed Oct 16 22:57:05 2013] Rapman4 VERSION
+[Wed Oct 16 22:58:18 2013] KoolCain VERSION
+[Wed Oct 16 22:59:01 2013] Rapman4 help
+[Wed Oct 16 22:59:06 2013] Rapman4 SHOWCOMMANDS
+[Wed Oct 16 22:59:20 2013] KoolCain admin
+[Wed Oct 16 22:59:23 2013] Rapman4 admin
+[Wed Oct 16 23:03:08 2013] Miss_K_trina csauth Miss_K_trina
+[Wed Oct 16 23:04:08 2013] KoolCain kick #Accueil
+[Wed Oct 16 23:04:12 2013] KoolCain kick #Accueil
+[Wed Oct 16 23:04:50 2013] KoolCain csauth KoolCain
+[Wed Oct 16 23:05:00 2013] Miss_K_trina op #Accueil
+[Thu Oct 17 09:44:53 2013] [MaD] auth *******
+[Thu Oct 17 10:55:05 2013] Benjamin csauth Benjamin
+[Thu Oct 17 10:55:20 2013] Benjamin inviteme
+[Thu Oct 17 10:55:39 2013] Benjamin invite #Ircops
+[Thu Oct 17 10:56:07 2013] Benjamin invite #xops
+[Thu Oct 17 10:56:20 2013] Benjamin mode #irix
+[Thu Oct 17 10:57:21 2013] Benjamin chaninfo #cservice
+[Thu Oct 17 10:58:52 2013] Benjamin mode #cservice
+[Thu Oct 17 10:59:08 2013] Benjamin chanopt #cservice
+[Thu Oct 17 10:59:25 2013] Benjamin mode #cservice
+[Thu Oct 17 19:16:04 2013] Benjamin csauth Benjamin
+[Thu Oct 17 19:16:13 2013] Benjamin inviteme
+[Thu Oct 17 19:19:56 2013] [MaD] auth *******
+[Thu Oct 17 19:26:10 2013] Benjamin op #Accueil
+[Fri Oct 18 00:01:15 2013] Benjamin|DerClopes showcommands
+[Fri Oct 18 00:01:48 2013] Benjamin|DerClopes map
+[Fri Oct 18 00:02:05 2013] Benjamin|DerClopes chaninfo #irix
+[Fri Oct 18 00:02:14 2013] Benjamin|DerClopes chaninfo #irix #irix
+[Fri Oct 18 00:02:24 2013] Benjamin|DerClopes chaninfo #irix #Accueil
+[Fri Oct 18 00:02:34 2013] Benjamin|DerClopes chaninfo #Accueil
+[Fri Oct 18 00:03:28 2013] Benjamin|DerClopes chaninfo #Teamscript
+[Fri Oct 18 00:03:42 2013] Benjamin|DerClopes alist #Teamscript
+[Fri Oct 18 00:03:48 2013] Benjamin|DerClopes access #Teamscript
+[Fri Oct 18 09:19:26 2013] [MaD] auth *******
+[Fri Oct 18 09:29:16 2013] [MaD] auth *******
+[Fri Oct 18 10:59:29 2013] Benjamin csauth Benjamin
+[Fri Oct 18 13:03:15 2013] KoolCain showcommands
+[Fri Oct 18 13:07:28 2013] MacHeckett csauth MacHeckett
+[Fri Oct 18 16:31:16 2013] Miss_K_trina csauth Miss_K_trina
+[Fri Oct 18 16:31:22 2013] Miss_K_trina inviteme
+[Fri Oct 18 18:09:32 2013] [MaD] auth *******
+[Fri Oct 18 22:41:51 2013] Benjamin csauth Benjamin
+[Fri Oct 18 22:59:31 2013] [MaD] auth *******
+[Sat Oct 19 10:06:14 2013] [MaD] auth *******
+[Sat Oct 19 13:45:42 2013] MacHeckett|Y-Taff csauth MacHeckett
+[Sat Oct 19 18:13:47 2013] [MaD] auth *******
+[Sun Oct 20 10:12:12 2013] [MaD] auth *******
+[Sun Oct 20 10:43:32 2013] Benjamin csauth Benjamin
+[Sun Oct 20 11:13:06 2013] Miss_K_trina csauth Miss_K_trina
+[Sun Oct 20 11:13:12 2013] Miss_K_trina inviteme
+[Sun Oct 20 13:20:03 2013] MacHeckett|Y-Taff csauth MacHeckett

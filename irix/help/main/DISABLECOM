@@ -1,0 +1,3 @@
+     Syntax:   DISABLECOM <command>
+     Use:      Allows Channel services to disable the use of 
+               the specified command

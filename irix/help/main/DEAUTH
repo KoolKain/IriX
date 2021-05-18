@@ -1,0 +1,4 @@
+     Syntax:   DEAUTH <channel> <IDNick>
+     Use:      De-authenticates you for the session.
+     Example:  /msg \n DEAUTH #MyChannel MyIDNick
+

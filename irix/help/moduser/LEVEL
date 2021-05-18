@@ -1,0 +1,7 @@
+     Syntax:   MODUSER #Channel LEVEL <IDNick>  <1-499>
+     Use:      Sets the access level for a user
+     Example:  /msg \n MODUSER #MyChan LEVEL IDNick 100
+     ----------
+     Suggested Use:
+     ----------
+     Change a user's access level for the channel.

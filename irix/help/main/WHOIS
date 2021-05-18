@@ -1,0 +1,13 @@
+     Syntax:   WHOIS <nickname>
+     Use:      Will calculate a nick!user@host mask for you
+               from the whois information of this nick.
+     Example:  WHOIS DrSpock
+               This will find DrWho's address:
+               ~spock@pm34-23.ix.planetvulcan.org
+               and will generate a nick!user@host mask like:
+               *!*spock@*.planetvulcan.org
+     ----------
+     Suggested Use:
+     ----------
+     Use to help yourself when adding masks for users
+     or creating masks for bans.

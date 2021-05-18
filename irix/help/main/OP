@@ -1,0 +1,3 @@
+     Syntax:   OP <channel> <nickname1> <nickname2> <nickname3> ...
+     Use:      Give OPS to someone on a channel.
+     Example:  /msg \n OP #MyChannel myfriend newbie visitor

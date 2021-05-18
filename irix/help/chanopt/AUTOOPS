@@ -1,0 +1,5 @@
+     Syntax:   CHANOPT <channel> AUTOPS
+     Use:      If ON, users who have autoop ON in the user list 
+               will receive autoops.  When OFF no one will receive
+               AUTOOPS.
+     Example:  /msg \n CHANOPT #MyChan AUTOOPS

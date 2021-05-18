@@ -1,0 +1,4 @@
+     Syntax:   RDEFAULTS <channel>
+     Use:      This will reset the defaults on all channels,
+               such as the topic and modes.
+

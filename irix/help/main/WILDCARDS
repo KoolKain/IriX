@@ -1,0 +1,62 @@
+Syntax: None 
+Level : 0 Normal User 
+
+In this age of graphical interfaces and Windows (tm), many users are
+vaguely familiar with the usage of wildcards. This help file will 
+aid you with the concept of wildcards. It is absolutely imperative that
+you read this through completely! If you do not add yourself correctly 
+using the correct user@host with wildcards, the bot will not recognize
+you as a user! 
+
+The term wildcard stands for a character which may stand for anything, 
+a letter, a word, or any combination of these. If that sounded a bit 
+vague and unclear, don't worry. It will be explained more in depth with
+some examples. 
+
+Let us suppose for example's sake, that a user with the IRC address of
+Jane@port1.doe.net wishes to register #maine with X. The user registers
+herself with the user@host (which is a synonym of address) of 
+Jane@port1.doe.net. 
+
+After registering herself, the user joins #maine and attemps to request
+ops, but the bot is not so willing to comply to her needs! 
+
+At this point, Jane performs a /whois command on herself and finds that
+her user@host has changed from Jane@port1.doe.net to a new user@host of
+Jane@port23.doe.net. She has a dilemma at hand. Which  user@host should
+she have chosen? Is there a way she can add more than one address as an
+owner? (Yes, but we'll get to it later). 
+
+A simple solution to her perspectively complex problem is wildcards! A
+wildcard can be used to denote any number of characters. For example, Jane
+could have added Jane@*doe.net as a user@host, and the bot would have 
+had no trouble recognizing her as the owner. What does the little asterisk
+'*' stand for? 
+
+Take a look at these 2 user@hosts. Jane@port1.doe.net and also
+Jane@*doe.net. The character '*' tells the bot that anything between 
+Jane@ and doe.net is considered a matching word. Thus, her user@host of 
+Jane@*doe.net is considered matching with her user@host of 
+Jane@port1.doe.net. 
+
+So just keep in mind that the '*' denotes a wildcard and can stand for 
+anything. The bot also recognizes another wildcard of '?' as meaning one 
+letter. The '?' wildcard is not used as widely as the '*' wildcard. For
+example, Jane@doe.net and ?ane@doe.net would be considered a match. These 
+wildcards can be used in any combinations (more than one of different
+kinds of wildcards in a user@host is allowed) to meet the users' needs.
+
+Here are some more examples -- all considered a matching couple. 
+
+opus@*vicksburg.com                  opus@opus.vicksburg.com 
+reaper@reaper.vicksburg.*           reaper@reaper.vicksburg.com 
+donjr@*                             donjr@joy.othernet.org 
+Jane@port?.doe.net                  Jane@port1.doe.net 
+
+However, if for any reason you want two different user@hosts added as the
+owner of the channel, the only option is to go to #Help and request help.  
+If there is no one to help you in the channel, then do email 
+chanserv@othernet.org with your request. It will be answered promptly. 
+
+Thank you -- Channel Services (chanserv@othernet.org)
+

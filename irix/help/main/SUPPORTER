@@ -1,0 +1,5 @@
+     Syntax:   SUPPORTER <supporter #> <Supporter nick> <supporter email>
+     Use:      Add requested supporters to channel registration request
+     Example:  /msg \n SUPPORTER 1 Billy bgates@microsoft.com
+               /msg \n SUPPORTER 2 Clinton bclinton@whitehouse.gov
+               /msg \n SUPPORTER 3 Alice alice@wonderland.com

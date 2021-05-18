@@ -1,0 +1,4 @@
+     Syntax:   ADDTHISHOST <channel> <IDNick> <password>
+     Use:      Used to add a host to your IDNick when your not authed
+               by using your password as verification
+     Example:  /msg \n ADDTHISHOST #microsoft gates win2000

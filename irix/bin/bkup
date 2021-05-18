@@ -1,0 +1,11 @@
+#!/bin/sh
+cd ~/CS5.0
+mkdir chanserv
+cp -r database chanserv
+cp -r config chanserv
+ts=`date '+%m%d%H%M'`
+tar cvf ~/CS5.0/backup/Xbackup_$ts.tar chanserv 
+cd ~/CS5.0/backup
+gzip *.tar
+cd ~/chanserv
+rm -rf chanserv

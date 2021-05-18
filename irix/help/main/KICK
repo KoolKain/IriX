@@ -1,0 +1,3 @@
+     Syntax:   KICK <channel> <nickname> [reason]
+     Use:      kick someone out of a channel. 
+     Example:  /msg \n KICK #MyChannel myfriend Using abusive language

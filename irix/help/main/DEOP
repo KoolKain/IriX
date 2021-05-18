@@ -1,0 +1,3 @@
+     Syntax:   DEOP <channel> <nickname1> <nickname2> <nickname3> ...
+     Use:      Take OPS away from someone on a channel.
+     Example:  /msg \n DEOP #MyChannel myfriend newbie visitor

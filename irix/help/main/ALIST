@@ -1,0 +1,5 @@
+     Syntax:   ALIST <channel1> <channel2> <channel3>...
+     Use:      Used to list the authed members on given channels
+               the output format specifies a user's nickname their 
+               access level, if they are protected, and their IDNick
+     Example:  /msg \n ALIST #cservice #new2irc

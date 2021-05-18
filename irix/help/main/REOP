@@ -1,0 +1,5 @@
+     Syntax:   REOP [t]
+     Use:      Used to make \n reop itself on all channels
+               if you use REOP t, it will set DEFAULT topics also.
+               This operation is useful to carry out if a netsplit has
+               removed the bot's ops.

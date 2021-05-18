@@ -1,0 +1,28 @@
+     Syntax:   BAN <channel> [level] <nick!user@host> [duration:units] [reason]
+     Use:      Used to place a person on the Bot's internal 
+               banlist, which stays on the list, until
+               removed with UNBAN.
+               LEVEL is what level can remove the ban
+               Units is seconds, minutes, hours, days, weeks, months
+     Example:  /msg \n BAN #cservice 300  *!*gates@*.microsoft.com 2:days flooding channel
+\r
+                       BAN #southpole *!*@*.cuc.edu
+                               Defaults to infinite ban
+\r
+                       BAN #southpole *!*@*.cuc.edu Was a stupid git
+                               Defaults to infinite ban with a reason
+\r
+                       BAN #southpole *!*@*.cuc.edu 20:days
+                               20 day ban with no reason
+\r
+                       BAN #southpole *!*@*.cuc.edu 20:days stupid git
+                               20 day ban with a reason
+\r
+                       BAN #southpole 400 *!*@*.cuc.edu
+                               Level 400 required to remove above ban
+                               from channel.
+     ----------
+     Suggested Use:
+     ----------
+     Use in conjunction with WHOIS <nick> to place 
+     a ban on a channel.

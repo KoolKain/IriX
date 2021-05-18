@@ -1,0 +1,6 @@
+     Syntax:   CHANOPT <channel> SETVOICE
+     Use:      Sets any user in channel user list to +v
+               The user does not have to be authed.
+               This command toggles the value; if SETVOICE is ON
+               executing this command will turn SETVOICE OFF
+     Example:  /msg \n CHANOPT #MyChan SETVOICE

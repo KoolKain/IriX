@@ -1,0 +1,8 @@
+     Syntax:   BANLIST <channel> [nick!user@host]
+     Use:      Used to list the bot's internal ban list
+     Example:  /msg \n BANLIST #daytraders
+               The above example will list ALL internal
+               bot bans.
+               /msg \n BANLIST #daytraders *!*@*.net
+               The above example will list all internal
+               bot bans that match the mask.

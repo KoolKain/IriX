@@ -1,0 +1,7 @@
+     Syntax:   MODADMIN NEWIDNICK <old IDnick> <new IDnick>
+     Use:      Change the IDnick for an admin.
+     Example:  /msg \n MODADMIN NEWIDNICK myoldIDnick newIDnick
+     ----------
+     Suggested Use:
+     ----------
+     Change your User ID (IDnick)

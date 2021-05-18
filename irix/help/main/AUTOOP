@@ -1,0 +1,4 @@
+     Notice:   AutoOp on \n is automatic if you are authed, 
+               and and you have the autoop option ON for both
+               the channel and the user.
+   See Also:   MODUSER, CHANOPT

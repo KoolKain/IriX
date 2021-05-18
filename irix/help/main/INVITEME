@@ -1,0 +1,6 @@
+     Syntax:   INVITEME [nickname]
+     Use:      If you are authed as a cservice staff member,
+               you can issue this command to invite yourself
+               to the service's message channel. If you pass
+               a nickname to this command, the nickname specified
+               will be invited.

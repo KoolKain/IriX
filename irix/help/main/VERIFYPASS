@@ -1,0 +1,6 @@
+     Syntax:   VERIFYPASS <channel> <IDnick> <password>
+     Uses:     Used to verify a user is who they say they are, if
+               a user is unable to auth due to a host mask change.
+     Note:     The user must supply the password to you, so that it
+               may be un-encrypted, the bot will only tell you whether
+               it was valid or not.

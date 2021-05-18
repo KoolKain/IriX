@@ -1,0 +1,5 @@
+     Syntax:   UNBAN <channel> <nick!user@host>
+     Use:      Used to remove a ban from the Bot's internal 
+               banlist. To view bans, use BANLIST.
+     Example:  /msg \n UNBAN #cservice *!*gates@*.microsoft.com
+

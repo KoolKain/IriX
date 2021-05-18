@@ -1,0 +1,3 @@
+     Syntax:   DELUSER <channel> <IDnick>
+     Use:      Remove a user from the user list for a channel.
+     Example:  /msg \n DELUSER #Mychannel UserIDnick

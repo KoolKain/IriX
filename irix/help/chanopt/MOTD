@@ -1,0 +1,9 @@
+     Syntax:   CHANOPT <channel> MOTD <message>
+     Use:      Set a Messeg Of The Day, this will be dispalyed to users
+               who are in the channel userlist and they have authed
+     Example:  /msg \n CHANOPT #MyChan MOTD Meeting tonight at 7pm CST
+     ----------
+     Suggested Use:
+     ----------
+               Used to display messeges to channel members about channel 
+               specific issues.

@@ -1,0 +1,27 @@
+STRICTOP 0
+LASTSEEN 1381945827
+NOBAN 0
+CHMODESLEVEL 50
+DEFMODES +nt
+OWNERNICK KoolCain
+OWNERNAME 
+OWNEREMAIL 
+WELCOME 
+MOTD Pour des raisons de sécurité, veuillez ne pas avoir plus de 5 mask à votre access. Faites plutôt comme ceci: votrePseudo!*@* et VotrePseudo|*!*@* avec la commande moduser addmask
+BANLEVEL 50
+DESCRIPTION 
+OPEROP 0
+NOOPS 0
+DEFTOPIC 1Bienvenue sur 4#3Team14ScripT !4Beta : http://teamscript.perso.sfr.fr/projeteamscript.html  12Site : 12http://teamscript.fr. 4 Nous avons besoin de scripteurs pour la nouvelle version, envoyez un mail Ã  12teamscript@sfr.fr
+CHANURL 
+SETUPDATE 157971980
+STAY 1
+SETWELCOME 0
+NOPURGE 1
+SETVOICE 0
+SUSPEND 0
+TOPICLOCK 0
+BANMOVE -1
+BANREMOVE 0
+BANTIMEOUT 0
+AUTOOPS 0

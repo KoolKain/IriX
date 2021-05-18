@@ -1,0 +1,5 @@
+     Syntax:   TOPIC <channel> [topic]
+     Use:      Set a topic on a channel
+               if no topic is specified a random one will be
+               selected
+     Example:  /msg \n TOPIC #MyChannel Welcome to #MyChannel

@@ -1,0 +1,3 @@
+     Syntax:   LEAVE <channel>
+     Use:      Used to make \n leave a specified registered channel.
+               Used only by a valid Channel Services Representitive.

@@ -1,0 +1,12 @@
+     Syntax:   AUTHOP <channel> <IDnick> <password>
+     Use:      Proves that you are who the bot thinks you are,
+               and if successful will op you right after
+     Example:  /msg \n AUTHOP #Mychannel MyIDnick MyCoolSecretPassword
+     ----------
+     Suggested Use:
+     ----------
+     You Must authenticate yourself to use any commands on
+     this service. This is performed for each channel you
+     are a member of.  You are authenticated for the period
+     of time you are on the network, or until you chose to
+     DEAUTH yourself from the channel list. (See DEAUTH)

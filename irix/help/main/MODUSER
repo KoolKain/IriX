@@ -1,0 +1,15 @@
+     Syntax:   MODUSER <channel> <option> <IDnick> <parameter list>
+     Use:      Changes user information for the channel.
+               For help on individual options listed below, see
+               /msg \n HELP MODUSER <option>
+     Example:  /msg \n MODUSER #friendly ADDMASK Billy *!*bgates@*.microsoft.com
+     Option    Setting
+     ------    -------
+     INFO      <test, or keyword 'delete'>
+     AUTOOP    <IDNick>
+     ADDMASK   <nick!user@host>
+     DELMASK   <nick!user@host>
+     PROTECT   <toggle>
+     LEVEL     <1-499>
+     NEWIDNICK <old IDnick> <new IDnick>
+     NEWPASS   <IDNick> <new password>

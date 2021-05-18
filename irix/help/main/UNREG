@@ -1,0 +1,3 @@
+     Syntax:   UNREG <channel>
+     Use:      This command will unregister a channel. 
+               and all data is destroyed for that channel

@@ -1,0 +1,7 @@
+     Syntax:   MODUSER <#Channel> NEWIDNICK <old IDnick> <new IDnick>
+     Use:      Change the IDnick for someone.
+     Example:  /msg \n MODUSER #Channel NEWIDNICK myoldIDnick newIDnick
+     ----------
+     Suggested Use:
+     ----------
+     Change your User ID (IDnick) for the channel

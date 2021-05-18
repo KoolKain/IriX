@@ -1,0 +1,3 @@
+     Syntax:   DELADMIN <IDnick>
+     Use:      Remove an admin from the admin list.
+     Example:  /msg \n DELADMIN UserIDnick

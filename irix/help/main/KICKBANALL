@@ -1,0 +1,3 @@
+     Syntax:   KICKBANALL <channel> <reason>
+     Use:      Used to kick all members of the channel
+               except for the user issuing the command

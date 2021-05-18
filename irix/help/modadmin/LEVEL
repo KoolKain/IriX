@@ -1,0 +1,7 @@
+     Syntax:   MODADMIN LEVEL <IDNick>  <501-999>
+     Use:      Sets the access level for an admin
+     Example:  /msg \n MODADMIN LEVEL IDNick 700
+     ----------
+     Suggested Use:
+     ----------
+     Change an admin's access level.

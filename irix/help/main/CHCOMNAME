@@ -1,0 +1,3 @@
+     Syntax:   CHCOMNAME <current command name> <new command name>
+     Use:      Allows channel services to rename a command to a more
+	       suitable one.

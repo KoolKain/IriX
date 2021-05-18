@@ -1,0 +1,4 @@
+     Syntax:   CHANOPT #Channel SETWELCOME
+     Use:      Turns channel welcome messege ON/OFF
+               This command toggles the value; if SETWELCOME is ON
+               executing this command will turn SETWELCOME OFF

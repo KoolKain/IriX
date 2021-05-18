@@ -1,0 +1,3 @@
+     Syntax:   ISREGISTERED <channel>
+     Use:      Used to check if a specified channel is registered 
+               or not.

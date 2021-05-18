@@ -1,0 +1,7 @@
+     Syntax:   CHANOPT <channel> BANREMOVE <0/duration:unit>
+     Use:      Sets the time period for how often the bot removes channel
+               bans
+               Time is in minutes or hours, if the value is set to 0
+               BANREMOVE is disabled 
+               If BANREMOVE is enabled, BANMOVE is automatically disabled
+     Example:  /msg \n CHANOPT #MyChan BANREMOVE 2:hours

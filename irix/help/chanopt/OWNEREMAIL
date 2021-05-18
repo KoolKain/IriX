@@ -1,0 +1,3 @@
+     Syntax:   CHANOPT <channel> OWNEREMAIL <user@address>
+     Use:      Change channel owners email
+     Example:  /msg \n CHANOPT #MyChan OWNEREMAIL someone@some.org

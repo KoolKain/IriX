@@ -1,0 +1,3 @@
+     Syntax:   SAY <channel> <text>  
+     Use:      The say command sends text to the specified channel
+     Example:  /msg \n SAY #SouthPole Good afternoon UnixGuy 

@@ -1,0 +1,6 @@
+     Syntax:   INFO <channel> <text>
+     Use:      Used to make bot display a short info line that you set
+               when you join a channel.
+               If no text is supplied the current infoline will be
+               removed and none will be displayed.
+

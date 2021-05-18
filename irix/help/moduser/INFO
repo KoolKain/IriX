@@ -1,0 +1,4 @@
+     Syntax:   MODUSER <#Channel> INFO <IDNick> [delete|new info]
+     Use:      Allows you to change a user's info line. If you 
+               enter "delete", the line is deleted
+     Example:  /msg \n MODUSER #MyChan INFO IDNick delete

@@ -1,0 +1,4 @@
+     Syntax:   REGISTER <channel> <your email address>
+     NOTE:     Your current nick will be used as the idnick
+               that the channel will be registered under.
+     Use:      Used to register a channel.

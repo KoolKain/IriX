@@ -1,0 +1,29 @@
+     Syntax:   CHANOPT <channel> <option> <parameter list>
+     Use:      Change options for the channel.
+               For help on individual options listed below,
+               /msg \n HELP CHANOPT <option>
+     Example:  /msg \n #friendly CHANOPT OWNEREMAIL opus@othernet.org
+     Level  Command        Setting
+     -----  -------        -------
+     450    STRICTOP       TOGGLE
+     450    NOBAN          TOGGLE
+     450    CHMODESLEVEL   <0-500>
+     400    DEFMODES       <+/-[iklmnpst]>
+     500    OWNERNICK      <IDNick>
+     500    OWNERNAME      <first and last name>
+     500    OWNEREMAIL     <user@address>
+     400    WELCOME        <welcome message>
+     500    STAY           TOGGLE
+     450    SETWELCOME     TOGGLE
+     400    BANLEVEL       <0-500>
+     400    BANMOVE        <OFF/0/duration:unit>
+     400    BANREMOVE      <0/duration:unit>
+     400    BANTIMEOUT     <0/duration:unit>
+     400    DESCRIPTION    <channel description>
+     500    OPEROP         TOGGLE
+     450    NOOPS          TOGGLE
+     400    DEFTOPIC       <default channel topic>
+     500    CHANURL        <http://[address]>
+     400    SETVOICE       TOGGLE
+     450    LOCKTOPIC      TOGGLE
+     450    AUTOOPS        TOGGLE

@@ -1,0 +1,5 @@
+     Syntax:   SEEN <channel> <IDNick>
+     Use:      Used to show when the specified person authed last on
+               the specified channel 
+     Note:     This command will only work for users that are in the specified
+               channel's user list.

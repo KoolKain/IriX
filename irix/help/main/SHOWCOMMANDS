@@ -1,0 +1,6 @@
+      Syntax:   SHOWCOMMANDS [#channel]
+      Use:      Used to list all available commands and their levels.
+                If you specify the channel, you will be shown, by a 
+                dashed line, what commands you can perform in that
+                channel.
+      Example:  /msg \n SHOWCOMMANDS #help

@@ -1,0 +1,8 @@
+     Syntax:   ACCESS <channel> [<IDNick> <HostMask> or >0-500 or <0-500 or =0-500]
+     Use:      Find out the access level someone has on a channel
+               Wildcards can be used with the hostmask or IDnick
+     Example:  /msg \n ACCESS #Mychannel Billy  
+               Shows user information for the IDNick Billy
+               /msg \n ACCESS #Mychannel >200   
+               Shows user information for all with levels above 200
+

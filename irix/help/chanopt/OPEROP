@@ -1,0 +1,5 @@
+     Syntax:   CHANOPT <channel> OPEROP
+     Use:      Used to automatically op IRCOperators when they join the channel
+               This command toggles the value' if OPEROP is ON
+               executing this command will turn OPEROP OFF
+     Example:  /msg \n CHANOPT #MyChan OPEROP

@@ -1,0 +1,5 @@
+     Syntax:   CHANOPT #Channel NOOPS
+     Use:      Prevents anyone from having ops but \n.
+               This command toggles the value; if NOOPS is ON
+               executing this command will turn NOOPS OFF
+     Example:  /msg \n CHANOPT #MyChan NOOPS

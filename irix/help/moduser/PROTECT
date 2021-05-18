@@ -1,0 +1,7 @@
+     Syntax:   MODUSER <#Channel> PROTECT <IDNick>
+     Use:      Toggles the protect mode on or off for a user
+     Example:  /msg \n MODUSER #MyChan PROTECT <IDNick>
+     ----------
+     Suggested Use:
+     ----------
+     Protect (or unprotect) a user from kicking/deopping you.

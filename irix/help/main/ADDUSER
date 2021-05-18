@@ -1,0 +1,18 @@
+     Syntax:   ADDUSER <channel> <IDnick> <nick!user@host> <accesslevel> <autoop> <protect> <password>
+               - or -
+     Syntax:   ADDUSER <channel> <IDnick> <accesslevel> <password>
+     Use:      Add a user to the user list for a channel.
+               If the user you wish to add is online at the time, you 
+               can have \n figure out their mask by using ADDUSER
+               without putting a nick!user@host they then are added
+               with the default settings and their current nick will
+               be their IDnick
+     Example:  /msg \n ADDUSER #Mychannel NewUserIDnick
+               *!usernick@host.com 100 ON OFF userpass
+     Example:  /msg \n ADDUSER #Mychannel NewUserIDnick 300 userpass 
+     ----------
+     Suggested Use:
+     ----------
+     Used only for adding an authorized user to a channel. 
+     This command may not be used to modify information
+     for an existing user.

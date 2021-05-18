@@ -1,0 +1,27 @@
+STRICTOP 0
+LASTSEEN 1381945818
+NOBAN 0
+CHMODESLEVEL 50
+DEFMODES +nt
+OWNERNICK KoolCain
+OWNERNAME 
+OWNEREMAIL 
+WELCOME 
+MOTD Pour des raisons de sécurité, veuillez ne pas avoir plus de 5 mask à votre access. Faites plutôt comme ceci: votrePseudo!*@* et VotrePseudo|*!*@* avec la commande moduser addmask
+BANLEVEL 50
+DESCRIPTION 
+OPEROP 0
+NOOPS 0
+DEFTOPIC 1Bienvenue sur 12#Aide ~ 1Pour tout problÃ¨me, veuillez posez directement votre question sur le salon (un OpÃ©rateur (4@)11 ou 1Helpeurs (3+v) 1 rÃ©pondra alors Ã ?celle-ci si disponible)
+CHANURL 
+SETUPDATE 157967204
+STAY 1
+SETWELCOME 0
+NOPURGE 1
+SETVOICE 0
+SUSPEND 0
+TOPICLOCK 0
+BANMOVE -1
+BANREMOVE 0
+BANTIMEOUT 0
+AUTOOPS 0

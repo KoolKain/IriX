@@ -1,0 +1,34 @@
+Tips and Suggestions
+====================
+1)  It is suggested to create a cron to check if CS5 is running or not.  After
+    starting CS5 a file containing the pid of CS5 will be created(called O.pid)
+    you can use this to look for the process in a a script.  A sample script can
+    be found in the CS5.0/bin directory along with a cron example.
+
+2)  It is also suggested to perform regular backups of the database directory,
+    this can be done via a cron also.  A sample script is in cluded in the 
+    CS5.0/bin directory and included in the cron example.
+
+3)  Being there is no conversion scripts for CS4 to CS5 you will need to either
+    start over or convert to the new format.  You can get all the info you need
+    from the existing entry for the #cservice channel in the CS5/database directory.
+
+4)  Remember to check the log size often to not alow your hard drive to fill up
+    CS5.0/logs directory
+
+5)  If you have many users it is recommended to disable the command character
+    You do this by setting the bot mode to +d in the cserve.conf file.
+    MYMODES +owsk ---> MYMODES +odwsk
+    then kill the bot and restart it.
+
+6)  If the bot dies and you have the logging enabled, the last line in the log will 
+    help indicate the reason it is dying, not fool proof, but a good indicator.  If
+    you are reporting a bug, please include the last 10 lines of the log.  This will 
+    to be grabbed prior to the bot restarting.
+
+7)  The passwords in the channel user files are encrypted and you cnnot get them for
+    a user if requested.  If a user can supply you the password, to prove they are
+    who they say they are, you can use the VERIFYPASS command to see if it matches,
+    thus modifying a changed host mask for the user with the knowledge of them being
+    the rightful person.
+   
